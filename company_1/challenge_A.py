@@ -1,8 +1,8 @@
 '''
-Given an S string, return the "reversed" string where all characters
+Given a S string, return the "reversed" string where all characters
 that are not a letter stay in the same place, and all letters reverse
 their positions.
-ex:
+eg:
 input "a-bC-dEf=ghlj!!" 
 output "j-lh-gfE=dCba!!" 
 '''
