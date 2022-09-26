@@ -1,2 +1,3 @@
-# Python_bigCompany_interview_assessments
-No privacy disclosure
+Real major-companies "Python interview assessments" for Data Analysis and Data Science job openings.
+
+Privacy issues: none.
