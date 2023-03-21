@@ -1,0 +1,35 @@
+{
+    "request": [
+        {
+            "name": "date",
+            "type": "range",
+            "values": [
+                "2023-03-01T03:00:20.976130",
+                "2023-03-05T03:00:20.976130"
+            ]
+        },
+        {
+            "name": "sex",
+            "type": "list",
+            "values": [
+                "1"
+            ]
+        },
+        {
+            "name": "age_group",
+            "type": "list",
+            "values": [
+                "[35,50)",
+                "[50,60)"
+            ]
+        },
+        {
+            "name": "social_class",
+            "type": "list",
+            "values": [
+                "Middle",
+                "Upper"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "parameters": [
+        {
+            "name": "age_group",
+            "type": "list",
+            "values": [
+                "[35,50)",
+                "[25,35)",
+                "[60,+60)",
+                "[0,12)",
+                "[50,60)",
+                "[18,25)",
+                "[12,18)"
+            ]
+        },
+        {
+            "name": "social_class",
+            "type": "list",
+            "values": [
+                "Upper",
+                "Middle",
+                "Lower"
+            ]
+        },
+        {
+            "name": "date",
+            "type": "range",
+            "values": [
+                "2023-02-19T05:50:14.028518",
+                "2023-03-21T05:50:14.028518"
+            ]
+        },
+        {
+            "name": "sex",
+            "type": "list",
+            "values": [
+                "1",
+                "2"
+            ]
+        }
+    ]
+}
