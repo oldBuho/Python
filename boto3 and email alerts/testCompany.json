@@ -1,0 +1,21 @@
+{
+    "environment":{
+        "name":"DEV"
+    },
+
+    "email":{
+        "HOST":"email-smtp.us-east-1.amazonaws.com",
+        "PORT":"587",
+        "USERNAME_SMTP":"*********",
+        "PASSWORD_SMTP":"**************",
+        "SENDER":"info@testCompany.com",
+        "SENDERNAME":"testCompany monitoring",
+        "RECIPIENTS":["fjuiz@testCompany.com"]
+    },
+
+    "s3_key": {
+        "ACCESS_KEY" : "******************",
+        "SECRET_KEY" : "*************************************"
+    }
+
+}
